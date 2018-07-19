@@ -1,5 +1,5 @@
 
-case class Student(id :Int, name :String, division :String, section :String)
+case class Student(id :Int, name :String, division :Int, section :String)
 
 case class ScoreCard(id :Int, subject1 :Float, subject2 :Float, subject3 :Float, totalMarks :Float)
 
@@ -47,9 +47,7 @@ class ReportCard {
     val scoreCard = listOfScoreCard.filter(_.id == sid).head
     val studentInfo = listOfStudents.filter(_.id == sid).head
     s"ID : $sid " +
-      s" Name : ${studentInfo.name} " +
-      s" MARKS : " +
-      s" SUBJECTS : " +
+      s" NAME : ${studentInfo.name} " +
       s" SUBJECT1 : ${scoreCard.subject1}" +
       s" SUBJECT2 : ${scoreCard.subject2}" +
       s" SUBJECT3 : ${scoreCard.subject3}" +
