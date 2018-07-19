@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/18-07-2k18/target/scala-2.12/18-07-2k18_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/18-07-2k18/target/scala-2.12/classes/MainObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PatternMatching$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/18-07-2k18/target/scala-2.12/classes/PatternMatching$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/18-07-2k18/target/scala-2.12/classes/MainObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PatternMatching.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/18-07-2k18/target/scala-2.12/classes/PatternMatching.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

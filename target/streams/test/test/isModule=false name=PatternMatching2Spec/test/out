@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPatternMatching2Spec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for float[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for array of strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- for case class[0m[0m
